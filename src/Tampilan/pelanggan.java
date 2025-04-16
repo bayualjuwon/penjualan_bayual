@@ -7,7 +7,7 @@ package Tampilan;
 
 /**
  *
- * @author bayua
+ * @author bayual
  */
 public class pelanggan extends javax.swing.JFrame {
 
