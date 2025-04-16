@@ -7,7 +7,7 @@ package Tampilan;
 
 /**
  *
- * @author bayua
+ * @author bayual
  */
 public class kasir extends javax.swing.JFrame {
 
