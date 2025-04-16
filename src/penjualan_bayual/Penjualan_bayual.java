@@ -6,7 +6,7 @@ import koneksi.koneksi;
 import java.sql.Connection;
 /**
  *
- * @author Ahmad Maulana
+ * @author Bayu AlJuwon
  */
 public class penjualan_bayual {
     public static void main(String[] args) {
