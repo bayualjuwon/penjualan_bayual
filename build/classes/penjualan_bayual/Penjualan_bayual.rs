@@ -1,2 +1,0 @@
-penjualan_bayual.penjualan_bayual$1
-penjualan_bayual.penjualan_bayual
